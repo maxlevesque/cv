@@ -29,3 +29,6 @@ Schriften des Forschungszentrums Jülich, IAS Series 28, 2015, vi, 640 pages
 # Teaching
   2015-2016 - Ecole Normale Supérieure, Paris - Agrégation de chimie - cours TD de chimie théorique  
   2007-2010 - IUT Mesures Physiques, Orsay - Monitorat - Cours, TD et TP de structure et propriété de la matière
+
+# Entrepreneurship
+[Personal HPC](www.personalhpc.com)
