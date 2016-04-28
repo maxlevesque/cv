@@ -21,6 +21,7 @@
 20. G. Jeanmairet, V. Sergiievskyi, M. Levesque and D. Borgis, "Molecular density functional theory for water with liquid-gas coexistence and correct pressure", J. Chem. Phys. 142, 154112 (2015)
 20. J.-M. Vanson, F.-X. Coudert, B. Rotenberg, M. Levesque, C. Tardivat, M. Klotz and A. Boutin, "Unexpected coupling between flow and adsorption in porous media", Soft Matter 11, 6125-6133 (2015)
 21. V. Sergiievskyi, G. Jeanmairet, M. Levesque and D. Borgis, "Solvation free-energy pressure corrections in the three dimensional reference interaction site model", J. Chem. Phys. 132, 184116 (2015)
+22. Guillaume Jeanmairet, Nicolas Levy, Maximilien Levesque and Daniel Borgis, "Molecular density functional theory of water including density-polarization coupling", J. Phys.: Condens. Matter 28, 244005 (2016)
 
 # Book chapters
 1. Classical Density Functional Theory to Tackle Solvation in Molecular Liquids, by Guillaume Jeanmairet, Volodymyr Sergiievskyi, Maximilien Levesque and Daniel Borgis, in IAS Series Vol. 28 Computational Trends in Solvation and Transport in Liquids, edited by Godehard Sutmann, Johannes Grotendorst, Gerhard Gompper, Dominik Marx, ISBN 978-3-95806-030-2
